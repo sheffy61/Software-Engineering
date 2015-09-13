@@ -11,6 +11,7 @@
 </div>
 <body>
 <head>
+	Software Engineering
 <img style="position: absolute; top: 1%; left:22%; margin: 30px -30px -30px 30px;" src="Ashesi.jpg" width="120" />
 <p style = "text-align:center; font-size: 30px"><b>Ashesi University College<b></p>
 <p style = "text-align:center ; font-size: 25px"><b>Inventory Management System<b></p>
