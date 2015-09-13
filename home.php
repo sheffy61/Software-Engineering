@@ -18,7 +18,7 @@
 
 <ul id="accordion" style="position: absolute; top: 38%; left:-2%; margin: 30px -30px -30px 30px;" >
     <li a href="students.php"> <div>Students</div></a></li>
-    <li><div>Faculty</div></li>
+    <li><div>About Us</div></li>
     <li><div>Administrators</div></li>
     <li><div>Visitors</div></li>
     <li><div>Inventory</div></li>
